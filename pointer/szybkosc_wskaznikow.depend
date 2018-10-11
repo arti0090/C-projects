@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510327071 source:c:\users\arti\documents\projekty c++\szybkosc_wskaznikow\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+

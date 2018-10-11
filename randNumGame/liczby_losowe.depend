@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510068834 source:c:\users\arti\documents\projekty c++\liczby_losowe\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+

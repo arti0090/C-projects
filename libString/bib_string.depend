@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510255177 source:c:\users\arti\documents\projekty c++\bib_string\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+
